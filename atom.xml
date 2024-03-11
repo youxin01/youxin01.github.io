@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-05T08:55:05.853Z</updated>
+  <updated>2024-03-11T07:30:43.485Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Exercise3</title>
+    <link href="http://example.com/2024/03/11/STA-ex3/"/>
+    <id>http://example.com/2024/03/11/STA-ex3/</id>
+    <published>2024-03-10T16:00:00.000Z</published>
+    <updated>2024-03-11T07:30:43.485Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is my Exercise Chart.<br><a href="/Picture/mychart.html">Clik Me</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;This is my Exercise Chart.&lt;br&gt;&lt;a href=&quot;/Picture/mychart.html&quot;&gt;Clik Me&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Homework" scheme="http://example.com/categories/Homework/"/>
+    
+    
+    <category term="E-chart" scheme="http://example.com/tags/E-chart/"/>
+    
+  </entry>
   
   <entry>
     <title>如何在Hexo中定义文件分类</title>
