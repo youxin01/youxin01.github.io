@@ -1,5 +1,5 @@
-http://example.com/2024/03/11/STA-ex3/
 http://example.com/Picture/mychart.html
+http://example.com/2024/03/11/STA-ex3/
 http://example.com/link/index.html
 http://example.com/categories/index.html
 http://example.com/tags/index.html
