@@ -1,5 +1,5 @@
+http://example.com/2024/03/18/main/
 http://example.com/course/index.html
-http://example.com/2024/03/18/About/
 http://example.com/publication/index.html
 http://example.com/Picture/mychart.html
 http://example.com/course/mychart.html
