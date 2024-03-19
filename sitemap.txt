@@ -1,8 +1,8 @@
+http://example.com/cv/index.html
 http://example.com/2024/03/18/main/
 http://example.com/course/index.html
 http://example.com/publication/index.html
 http://example.com/Picture/mychart.html
-http://example.com/course/mychart.html
 http://example.com/link/index.html
 http://example.com/categories/index.html
 http://example.com/tags/index.html
