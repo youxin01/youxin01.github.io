@@ -9,6 +9,11 @@
   <updated>2025-03-30T13:04:00.744Z</updated>
   <id>http://example.com/</id>
   
+  <author>
+    <name>Youxin Zhu</name>
+    
+  </author>
+  
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
