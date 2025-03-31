@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-03-30T13:04:00.744Z</updated>
+  <updated>2025-03-30T15:00:23.873Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="http://example.com/2024/03/18/main/"/>
     <id>http://example.com/2024/03/18/main/</id>
     <published>2024-03-18T11:35:26.000Z</published>
-    <updated>2025-03-30T13:04:00.744Z</updated>
+    <updated>2025-03-30T15:00:23.873Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="About"></h1><h1 id="Me-👋🏼"><a href="#Me-👋🏼" class="headerlink" title="Me 👋🏼"></a>Me 👋🏼</h1><hr><p>&emsp; Hello! I am Youxin Zhu(<font face="楷体" >朱佑鑫</font>), a senior student studying in SUSTech(Southern University of Science and Technology), I will study in SUSTech for my cs master, advised by Prof.<a href="https://ghchen.me/">Guanhua chen</a> . And my research interests is Natural Language Process.</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="About"></h1><h1 id="Me-👋🏼"><a href="#Me-👋🏼" class="headerlink" title="Me 👋🏼"></a>Me 👋🏼</h1><p>&emsp; <strong>Hello!</strong> I’m a final-year computer science student at the <a href="https://www.sustech.edu.cn/"><strong>​Southern University of Science and Technology</strong></a> (SUSTech), where I’m currently:<br>🔹 Preparing for my ​<strong>Master’s in Computer Science</strong> (2025 Entry)<br>🔹 Working under the supervision of <a href="https://ghchen.me/">Prof. Guanhua Chen</a></p><h1 id="Research-Focus-📍"><a href="#Research-Focus-📍" class="headerlink" title="Research Focus 📍"></a>Research Focus 📍</h1><p>Natural Language Processing</p>]]></content>
     
     
       
       
     <summary type="html">&lt;h1 id=&quot;About&quot;&gt;&lt;/h1&gt;
 
-&lt;h1 id=&quot;Me-👋🏼&quot;&gt;&lt;a href=&quot;#Me-👋🏼&quot; class=&quot;headerlink&quot; title=&quot;Me 👋🏼&quot;&gt;&lt;/a&gt;Me 👋🏼&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;&amp;emsp; Hello! I am Youx</summary>
+&lt;h1 id=&quot;Me-👋🏼&quot;&gt;&lt;a href=&quot;#Me-👋🏼&quot; class=&quot;headerlink&quot; title=&quot;Me 👋🏼&quot;&gt;&lt;/a&gt;Me 👋🏼&lt;/h1&gt;&lt;p&gt;&amp;emsp; &lt;strong&gt;Hello!&lt;/stron</summary>
       
     
     
